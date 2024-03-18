@@ -1,54 +1,20 @@
+# 1. Dark Mode
+Need to go to Assets Set if you want to use custom color
+<img width="913" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/7a12eff4-35e2-4218-8a02-fd1b0122211a">
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# 2. Show ViewController Outline
+<img width="781" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4f44babb-a442-4cfd-85e3-011fca56c80b">
+<img width="569" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/5f5877c7-cdd9-47dc-b0d9-8172a1cac30d">
 
-#  Clima
+# 3. "Return" Button to Print Text
+<img width="640" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/166081a7-0d17-417e-b130-726f4eda625e">
+<img width="426" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/3037831b-3ef9-4da5-b347-be1475c74f6a">
 
-## Our Goal
+# 4. Clear the Keyboard and Text
+<img width="725" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/703dbcf3-477b-48dd-9c98-450d24b28a15">
 
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
 
 
-## What you will create
 
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
-## What you will learn
 
-* How to create a dark-mode enabled app.
-* How to use vector images as image assets.
-* Learn to use the UITextField to get user input. 
-* Learn about the delegate pattern.
-* Swift protocols and extensions. 
-* Swift guard keyword. 
-* Swift computed properties.
-* Swift closures and completion handlers.
-* Learn to use URLSession to network and make HTTP requests.
-* Parse JSON with the native Encodable and Decodable protocols. 
-* Learn to use Grand Central Dispatch to fetch the main thread.
-* Learn to use Core Location to get the current location from the phone GPS. 
-
-### Condition Codes
-```
-switch conditionID {
-        case 200...232:
-            return "cloud.bolt"
-        case 300...321:
-            return "cloud.drizzle"
-        case 500...531:
-            return "cloud.rain"
-        case 600...622:
-            return "cloud.snow"
-        case 701...781:
-            return "cloud.fog"
-        case 800:
-            return "sun.max"
-        case 801...804:
-            return "cloud.bolt"
-        default:
-            return "cloud"
-        }
-```
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
