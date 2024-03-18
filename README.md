@@ -4,6 +4,7 @@ Need to go to Assets Set if you want to use custom color
 
 # 2. Show ViewController Outline
 <img width="781" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4f44babb-a442-4cfd-85e3-011fca56c80b">
-<img width="539" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/71d2f849-888d-4fe7-a3bd-ec80b3010cfe">
+<img width="569" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/5f5877c7-cdd9-47dc-b0d9-8172a1cac30d">
+
 
 
