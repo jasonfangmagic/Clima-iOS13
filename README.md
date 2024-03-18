@@ -10,6 +10,10 @@ Need to go to Assets Set if you want to use custom color
 <img width="640" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/166081a7-0d17-417e-b130-726f4eda625e">
 <img width="426" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/3037831b-3ef9-4da5-b347-be1475c74f6a">
 
+# 4. Clear the Keyboard and Text
+<img width="725" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/703dbcf3-477b-48dd-9c98-450d24b28a15">
+
+
 
 
 
