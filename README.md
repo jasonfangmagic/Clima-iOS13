@@ -13,6 +13,15 @@ Need to go to Assets Set if you want to use custom color
 # 4. Clear the Keyboard and Text
 <img width="725" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/703dbcf3-477b-48dd-9c98-450d24b28a15">
 
+# 5. Protocol Rule. No Body
+<img width="616" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/76319929-4453-4126-95df-e56eda50acb0">
+<img width="235" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/64ee4403-ee5b-4844-84d2-61eb00530a0e">
+<img width="571" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/2a4b4e9c-7be0-4da8-b2b7-b9ab25744b55">
+
+
+
+
+
 
 
 
