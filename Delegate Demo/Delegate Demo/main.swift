@@ -39,7 +39,6 @@ class Doctor: AdvancedLifeSupport {
     func useStethescope() {
         print("Listening for hear sounds")
     }
-    
 }
 
 class Surgeon: Doctor {
@@ -62,3 +61,5 @@ let angela = Surgeon(handler: emilio)
 
 emilio.assessSituation()
 emilio.medicalEmergency()
+
+
