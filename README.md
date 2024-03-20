@@ -59,6 +59,11 @@ Moved to here <br>
 VC Code<br>
 <img width="858" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/84d5a76b-3a94-4fb1-a354-9c8ace72add4">
 
+# 10. Computed Property
+The variable can return a value directly
+<img width="431" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4fc440eb-2695-450a-8d5f-b282f733278e">
+
+
 
 
 
