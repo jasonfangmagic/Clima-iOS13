@@ -51,25 +51,8 @@ let letterCounts = cast.map { $0.count }
 My Code<br>
 <img width="582" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/f7beca46-f343-484d-b231-5079401bcbd5"> <br?
 Course Code<br>
+<img width="290" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/6166a52f-5510-4cea-9e27-ed6e0eb27310">
 
-switch conditionID {
-        case 200...232:
-            return "cloud.bolt"
-        case 300...321:
-            return "cloud.drizzle"
-        case 500...531:
-            return "cloud.rain"
-        case 600...622:
-            return "cloud.snow"
-        case 701...781:
-            return "cloud.fog"
-        case 800:
-            return "sun.max"
-        case 801...804:
-            return "cloud.bolt"
-        default:
-            return "cloud"
-        }
 
 
 
