@@ -22,10 +22,13 @@ Need to go to Assets Set if you want to use custom color
 # 6. Clousure 
 <img width="814" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/f3cec4a6-5f01-4395-a53c-2d2433eab288">
 
-<img width="828" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4dbee2b1-36a2-4354-8f3c-c12e16cc33c1">
-
+Closure: <br>
 calculator(n1: 2, n2: 3, operation: {(no1: Int, no2: Int) -> Int in
     return no1 * no2})
+    
+<img width="828" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4dbee2b1-36a2-4354-8f3c-c12e16cc33c1">
+
+
 
 
 ## First Step<br>
