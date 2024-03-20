@@ -47,6 +47,30 @@ let letterCounts = cast.map { $0.count }
 # 7. Map
 <img width="887" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/e0387702-089d-4f6f-8b08-9af535ddf695">
 
+# 8. Use Switch Fucntion
+My Code<br>
+<img width="582" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/f7beca46-f343-484d-b231-5079401bcbd5"> <br?
+Course Code<br>
+switch conditionID {
+        case 200...232:
+            return "cloud.bolt"
+        case 300...321:
+            return "cloud.drizzle"
+        case 500...531:
+            return "cloud.rain"
+        case 600...622:
+            return "cloud.snow"
+        case 701...781:
+            return "cloud.fog"
+        case 800:
+            return "sun.max"
+        case 801...804:
+            return "cloud.bolt"
+        default:
+            return "cloud"
+        }
+
+
 
 
 
