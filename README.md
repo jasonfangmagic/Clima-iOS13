@@ -44,7 +44,7 @@ let lowercaseNames = cast.map { $0.lowercased() }
 let letterCounts = cast.map { $0.count }
 // 'letterCounts' == [6, 6, 3, 4]
 
-# Map
+# 7. Map
 <img width="887" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/e0387702-089d-4f6f-8b08-9af535ddf695">
 
 
