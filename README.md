@@ -19,6 +19,35 @@ Need to go to Assets Set if you want to use custom color
 <img width="571" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/2a4b4e9c-7be0-4da8-b2b7-b9ab25744b55">
 <img width="738" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/dcb231cc-0ff0-498f-9773-4fd5c64074b7">
 
+# 6. Clousure 
+<img width="814" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/f3cec4a6-5f01-4395-a53c-2d2433eab288">
+
+Closure: <br>
+calculator(n1: 2, n2: 3, operation: {(no1: Int, no2: Int) -> Int in
+    return no1 * no2})
+    
+<img width="828" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4dbee2b1-36a2-4354-8f3c-c12e16cc33c1">
+
+
+
+
+## First Step<br>
+
+Remove func and put in after <br>
+<img width="860" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/dc45b575-6e32-4968-baf6-8c5ead9062aa">
+
+calculator(n1: 2, n2: 3) {$0* $1}
+
+let cast = ["Vivien", "Marlon", "Kim", "Karl"]
+let lowercaseNames = cast.map { $0.lowercased() }
+// 'lowercaseNames' == ["vivien", "marlon", "kim", "karl"]
+let letterCounts = cast.map { $0.count }
+// 'letterCounts' == [6, 6, 3, 4]
+
+# 7. Map
+<img width="887" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/e0387702-089d-4f6f-8b08-9af535ddf695">
+
+
 
 
 
