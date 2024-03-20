@@ -51,6 +51,7 @@ let letterCounts = cast.map { $0.count }
 My Code<br>
 <img width="582" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/f7beca46-f343-484d-b231-5079401bcbd5"> <br?
 Course Code<br>
+
 switch conditionID {
         case 200...232:
             return "cloud.bolt"
