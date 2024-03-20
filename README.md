@@ -38,6 +38,13 @@ Remove func and put in after <br>
 
 calculator(n1: 2, n2: 3) {$0* $1}
 
+let cast = ["Vivien", "Marlon", "Kim", "Karl"]
+let lowercaseNames = cast.map { $0.lowercased() }
+// 'lowercaseNames' == ["vivien", "marlon", "kim", "karl"]
+let letterCounts = cast.map { $0.count }
+// 'letterCounts' == [6, 6, 3, 4]
+
+
 
 
 
