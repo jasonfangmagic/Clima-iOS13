@@ -53,6 +53,13 @@ My Code<br>
 Course Code<br>
 <img width="290" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/6166a52f-5510-4cea-9e27-ed6e0eb27310">
 
+# 9. MVC Structure
+Moved to here <br>
+<img width="584" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/275bd86b-a8da-4aef-a958-55ec74067e78"><br>
+VC Code<br>
+<img width="858" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/84d5a76b-3a94-4fb1-a354-9c8ace72add4">
+
+
 
 
 
