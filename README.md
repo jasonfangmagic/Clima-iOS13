@@ -24,6 +24,10 @@ Need to go to Assets Set if you want to use custom color
 
 <img width="828" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4dbee2b1-36a2-4354-8f3c-c12e16cc33c1">
 
+calculator(n1: 2, n2: 3, operation: {(no1: Int, no2: Int) -> Int in
+    return no1 * no2})
+
+
 ## First Step<br>
 
 Remove func and put in after <br>
