@@ -36,7 +36,7 @@ calculator(n1: 2, n2: 3, operation: {(no1: Int, no2: Int) -> Int in
 Remove func and put in after <br>
 <img width="860" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/dc45b575-6e32-4968-baf6-8c5ead9062aa">
 
-
+calculator(n1: 2, n2: 3) {$0* $1}
 
 
 
