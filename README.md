@@ -21,6 +21,7 @@ Need to go to Assets Set if you want to use custom color
 
 # 6. Clousure 
 <img width="814" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/f3cec4a6-5f01-4395-a53c-2d2433eab288">
+
 ## First Step<br>
 remove func and put in 
 
