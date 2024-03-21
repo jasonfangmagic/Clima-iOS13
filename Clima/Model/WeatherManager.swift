@@ -26,7 +26,7 @@ struct WeatherManager {
                 
                 if let safeData = data {
                     let dataString = String(data: safeData, encoding: .utf8)
-                    parseJSON(weatherData: safeData)
+                    let weather = self.parseJSON(weatherData: safeData)
                 }
             }
             
@@ -36,7 +36,7 @@ struct WeatherManager {
         }
     }
     
-    func parseJSON(weatherData: Data) {
+    func parseJSON(weatherData: Data) -> WeatherModel? {
         let decoder = JSONDecoder()
         do{
             let decodedData = try decoder.decode(WeatherData.self, from: weatherData)
@@ -44,12 +44,15 @@ struct WeatherManager {
             let temp = decodedData.main.temp
             let name = decodedData.name
             
-            let weather = WeatherModel(weatherid: id, cityName: name, temperature: temp)
+            if let weather = WeatherModel(weatherid: id, cityName: name, temperature: temp){
+                delegate?.didUpdateWeather(weather:weather)
+            }
             
             print(decodedData.main.temp)
             
         } catch {
             print(error)
+            return nil
         }
     }
     
