@@ -47,6 +47,31 @@ let letterCounts = cast.map { $0.count }
 # 7. Map
 <img width="887" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/e0387702-089d-4f6f-8b08-9af535ddf695">
 
+# 8. Use Switch Fucntion
+My Code<br>
+<img width="582" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/f7beca46-f343-484d-b231-5079401bcbd5"> <br>
+Course Code<br>
+<img width="290" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/6166a52f-5510-4cea-9e27-ed6e0eb27310">
+
+# 9. MVC Structure
+Moved to here <br>
+<img width="584" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/275bd86b-a8da-4aef-a958-55ec74067e78"><br>
+VC Code<br>
+<img width="858" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/84d5a76b-3a94-4fb1-a354-9c8ace72add4">
+
+# 10. Computed Property
+The variable can return a value directly
+<img width="431" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4fc440eb-2695-450a-8d5f-b282f733278e">
+
+# 11. Internal and External Parameter Names
+<img width="928" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/a7600ad6-b7da-4709-902c-e179b9d32185"><br>
+You can add _ and call the function without a parameter anme <br>
+<img width="932" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/408db6ae-0c46-407f-bb77-59338fe545e1">
+
+
+
+
+
 
 
 
