@@ -63,6 +63,11 @@ VC Code<br>
 The variable can return a value directly
 <img width="431" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/4fc440eb-2695-450a-8d5f-b282f733278e">
 
+# 11. Internal and External Parameter Names
+<img width="928" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/a7600ad6-b7da-4709-902c-e179b9d32185"><br>
+You can add _ and call the function without a parameter anme <br>
+<img width="932" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/408db6ae-0c46-407f-bb77-59338fe545e1">
+
 
 
 
