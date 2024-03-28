@@ -78,6 +78,14 @@ You can add _ and call the function without a parameter anme <br>
 # 14. Add Extension to a UILabel
 <img width="916" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/6ec8e84e-aa20-44c8-b393-73412eff5ef7">
 
+# 15. Use GPS to Get Location
+<img width="643" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/e60563b2-1279-4651-9853-793a39a1704d">
+
+# 16. Set Delegate First
+<img width="597" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/3f4ec8de-4b77-4423-854f-6a8c53ab8fa6">
+
+
+
 
 
 
