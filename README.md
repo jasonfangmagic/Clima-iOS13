@@ -72,6 +72,8 @@ You can add _ and call the function without a parameter anme <br>
 <img width="1061" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/d02a83cd-0082-47d2-9be6-c27945911976">
 <img width="918" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/06796f2b-a53f-469e-a82d-a97ccdf50ba5">
 
+# 13. Add Extension
+<img width="940" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/c24ddfda-b7d1-4a08-be38-2b33cc933026">
 
 
 
