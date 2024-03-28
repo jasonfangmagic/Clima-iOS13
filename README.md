@@ -75,6 +75,10 @@ You can add _ and call the function without a parameter anme <br>
 # 13. Add Extension
 <img width="940" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/c24ddfda-b7d1-4a08-be38-2b33cc933026">
 
+# 14. Add Extension to a UILabel
+<img width="916" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/6ec8e84e-aa20-44c8-b393-73412eff5ef7">
+
+
 
 
 
