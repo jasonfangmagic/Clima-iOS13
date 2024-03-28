@@ -68,6 +68,10 @@ The variable can return a value directly
 You can add _ and call the function without a parameter anme <br>
 <img width="932" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/408db6ae-0c46-407f-bb77-59338fe545e1">
 
+# 12. Add DispatchQueue When the Networking Running in the Background
+<img width="1061" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/d02a83cd-0082-47d2-9be6-c27945911976">
+
+
 
 
 
