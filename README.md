@@ -70,6 +70,8 @@ You can add _ and call the function without a parameter anme <br>
 
 # 12. Add DispatchQueue When the Networking Running in the Background
 <img width="1061" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/d02a83cd-0082-47d2-9be6-c27945911976">
+<img width="918" alt="image" src="https://github.com/jasonfangmagic/Clima-iOS13/assets/87825019/06796f2b-a53f-469e-a82d-a97ccdf50ba5">
+
 
 
 
